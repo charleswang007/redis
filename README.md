@@ -17,4 +17,4 @@ REmote DIctionary Server(Redis) 是一個由Salvatore Sanfilippo寫的key-value�
 * 原子 – Redis的所有操作都是原子性的，同時Redis還支持對幾個操作全併後的原子性執行。
 * 豐富的特性 – Redis還支持publish/subscribe, 通知, key 過期等等特性。
 
-![alt text](reids.png "redis logo")
+![alt text](redis.png "redis logo")
