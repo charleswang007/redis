@@ -19,3 +19,12 @@ REmote DIctionary Server (Redis) 是一個由Salvatore Sanfilippo寫的key-value
 * 和 MongoDB 不同，並沒有 schema 的概念，常被用作快取系統。
 
 ![alt text](redis.png "redis logo")
+
+## 什麼是 Redis？
+Redis 是一種內存資料庫(in-memory)的架構，可以被當作一個簡易的資料庫(key-value database)，這功能就讓我想起 Android 的 Shared Preferences 一樣是可以將資料存在用戶自己的裝置中，也等同於網頁中的 cookie、localStorage，Redis 使用 RAM 來存取資料所以相對來得快速，缺點是重開機後記憶體就會被釋放掉，但 Redis 有個功能 persistence 可以解決這個問題，此外 Redis 也能設定資料的生命週期(Expire)當你在儲存資料的時候，你可以新增一個 Expire time 的參數，時間一到之後，這個 key 就會自動被清除。
+
+## 教學
+
+[https://blog.techbridge.cc/2016/06/18/redis-introduction/](https://blog.techbridge.cc/2016/06/18/redis-introduction/)
+
+[https://aws.amazon.com/tw/redis/](https://aws.amazon.com/tw/redis/)
