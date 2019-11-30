@@ -25,6 +25,6 @@ Redis 是一種內存資料庫(in-memory)的架構，可以被當作一個簡易
 
 ## 教學
 
-[https://blog.techbridge.cc/2016/06/18/redis-introduction/](https://blog.techbridge.cc/2016/06/18/redis-introduction/)
+[https://blog.techbridge.cc/2016/06/18/redis-introduction/](https://blog.techbridge.cc/2016/06/18/redis-introduction/)
 
 [https://aws.amazon.com/tw/redis/](https://aws.amazon.com/tw/redis/)
